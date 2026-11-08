@@ -1,0 +1,3 @@
+,name,actual_price,predicted_price,abs_error,error_percent
+close prediction,LG W30,8499,8465.0,34.0,0.4
+wrong prediction,Samsung Galaxy Fold,164999,96801.0,68198.0,41.3

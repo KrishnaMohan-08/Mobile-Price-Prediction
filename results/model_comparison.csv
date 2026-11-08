@@ -1,0 +1,6 @@
+Model,MAE,RMSE,R2,CV_R2_5fold
+Baseline (mean price),8210.39,16247.21,-0.0014,-0.0095
+Linear Regression,4740.09,8760.13,0.7089,0.6015
+Decision Tree,5187.67,11834.25,0.4687,0.238
+Random Forest,3595.49,9243.91,0.6758,0.6232
+Gradient Boosting,3751.44,9138.64,0.6832,0.6616
